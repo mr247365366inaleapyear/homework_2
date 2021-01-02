@@ -2,3 +2,13 @@ body{
     background-color: gray;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.container{
+    width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  clear: both;
+}
+nav{
+    float: right;
+  margin-top: 25px;
+}
