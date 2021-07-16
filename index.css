@@ -1,8 +1,12 @@
 body{
-    background-color: rgb(100, 120, 228);
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 18px;
+    background-color: rgb(182, 200, 201);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
     line-height: 34px;
+}
+.h2{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
 }
 .container{
     width: 100%;
